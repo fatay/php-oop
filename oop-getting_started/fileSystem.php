@@ -24,7 +24,7 @@ if(is_file(__DIR__)) {
 	
 }
 
-if(is_dir(__DIR__)) {				//if this directory or not
+if(is_dir(__DIR__)) {					//if this directory or not
 	
 	echo "yes"."<br>";				
 	
